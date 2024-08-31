@@ -1,9 +1,7 @@
-// 6] What will be the value of x after executing the following code?
- int x = 10;
- x += 5 * 2;
- a) 15
- b) 20
- c) 10
- d) 30
+ 6] Which of the following is a valid format specifier for printing a float in C?
+ a) %d
+ b) %f
+ c) %lf
+ d) %c
  
  ANS : B

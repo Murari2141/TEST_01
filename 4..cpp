@@ -1,13 +1,7 @@
-// 4] What will be the output of the following code?
- int a = 5;
- if (a > 3)
- printf("Greater\n");
- else
- printf("Lesser\n");
- a) Greater
- b) Lesser
- c) Error
- d) None of the above
+4] Which of the following is the correct syntax to declare a pointer in C?
+ a) int* ptr;
+ b) int ptr;
+ c) int &ptr;
+ d) int ptr*;
 
-
-ANS. A
+ANS : A

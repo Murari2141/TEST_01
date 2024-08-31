@@ -1,12 +1,9 @@
-// 8] Write a for loop that prints all even numbers from 2 to 10.
+ 8] What is the output of the following code?
+ int arr[] = {1, 2, 3, 4, 5};
+ printf("%d\n", arr[3]);
+ a) 1
+ b) 2
+ c) 3
+ d) 4
  
- #include <stdio.h>
- int i;
- 
- int main(){
- 	
- 	for(i=2;i<=20;i+=2){
- 		
- 		printf("Your Even Number %d\n",i);
-	 }
- }
+ ANS : D

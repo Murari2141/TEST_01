@@ -1,7 +1,11 @@
-//5] What is the purpose of the return statement in a function?
- a) To exit the program
- b) To exit a loop
- c) To send a value back to the calling function
- d) To end the function without returning any value
+5] What will be the output of the following code?
+ int a = 10;
+ int b = 20;
+ int c = a + b;
+ printf("%d\n", c);
+ a) 10
+ b) 20
+ c) 30
+ d) Error
  
  ANS : C

@@ -1,13 +1,13 @@
-// 15] Consider the following code snippet. What will be the value of
- result after execution?
- int arr[] = {1, 2, 3, 4, 5};
- int result = 0;
- for (int i = 0; i < 5; i++) {
- result += arr[i];
- }
- a) 10
- b) 15
- c) 20
- d) 25
- 
- ANS: B
+// 15] Write a C program that uses a for loop to calculate the sum of the first 10 natural numbers.
+
+#include <stdio.h>
+int n;
+int main() {
+    
+    printf("ENTER YOUR NUMBER :");
+    scanf("%d",&n);
+    int sum = n * (n + 1) / 2;
+    printf("Sum of first 10 natural numbers: %d\n", sum);
+    return 0;
+}
+

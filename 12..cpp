@@ -1,12 +1,13 @@
-//  12] Consider the following code snippet. What will be the output?
- int x = 5;
- int y = (x == 5) ? 10 : 20;
- printf("%d\n", y);
- a) 5
- b) 10
- c) 20
- d) Error
+  12] What will be the output of the following code?
+ int a = 5, b = 10;
+ if (a < b && b > 5) {
+ printf("True\n");
+ } else {
+ printf("False\n");
+ }
+ a) True
+ b) False
+ c) Error
+ d) None of the above
  
- ANS : B
-
-
+ ANS : A

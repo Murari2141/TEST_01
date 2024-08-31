@@ -1,10 +1,7 @@
-// 9] What is the output of the following code?
- char str[] = "Hello";
- printf("%c\n", str[1]);
- a) H
- b) e
- c) l
- d) o
- 
- 
- ANS: B
+9] How can you define a constant variable in C?
+ a) const int x = 10;
+ b) constant int x = 10;
+ c) #define x 10
+ d) Both a and c
+
+ANS : A

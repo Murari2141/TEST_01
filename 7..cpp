@@ -1,14 +1,14 @@
-// 7] Consider the following code snippet. What will be the output?
- int a = 10, b = 20;
- if (a > b)
- printf("a is greater\n");
- else if (a == b)
- printf("a is equal to b\n");
- else
- printf("b is greater\n");
- a) a is greater
- b) a is equal to b
- c) b is greater
- d) Erro
- 
- ANS: C
+//7] Write a while loop that prints numbers from 1 to 5.
+
+#include<stdio.h>
+
+int num;
+
+int main(){
+	
+	int start = 1, end = 5;
+    while(start <= end){
+       printf("num : %d\n", start);
+    start += 1;
+    }
+}
